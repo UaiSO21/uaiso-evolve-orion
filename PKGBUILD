@@ -17,6 +17,5 @@ depends=('hide-titles-git'
          'uaiso-srv'
          'uaiso-wallpapers-orion')
 
-
 #optdepends=()
 #install=$pkgname.install
