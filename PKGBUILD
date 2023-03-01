@@ -15,7 +15,9 @@ depends=('hide-titles-git'
          'plasma5-applets-window-title'
          'uaiso-rename-apps'
          'uaiso-srv'
-         'uaiso-wallpapers-orion')
+         'uaiso-wallpapers-orion'
+         'ark'
+         'org.kde.plasma.confsaver')
 
 #optdepends=()
 #install=$pkgname.install
