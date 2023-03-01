@@ -7,7 +7,6 @@ pkgdesc="Package Essential for UaiSO Evolve Orion"
 arch=('any')
 url="https://uaiso.uai21.com/orion"
 license=('GPL')
-md5sums=('SKIP')
 
 depends=('hide-titles-git'
          'applet-window-buttons-git'
