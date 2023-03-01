@@ -17,5 +17,6 @@ depends=('hide-titles-git'
          'uaiso-rename-apps'
          'uaiso-srv')
 
+
 #optdepends=()
 #install=$pkgname.install
