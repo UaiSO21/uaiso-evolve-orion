@@ -1,2 +1,4 @@
-# uaiso-evolve-orion
-Meta pacote do UaiSO Evolve Orion 
+# UaiSO Evolve Orion
+
+Pacote que instala as dependências necessárias para a construção do Evolve Orion do UaiSO.
+
