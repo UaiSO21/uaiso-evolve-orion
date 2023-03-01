@@ -14,7 +14,8 @@ depends=('hide-titles-git'
          'gtk-update-icon-cache'
          'plasma5-applets-window-title'
          'uaiso-rename-apps'
-         'uaiso-srv')
+         'uaiso-srv'
+         'uaiso-wallpapers-orion')
 
 
 #optdepends=()
