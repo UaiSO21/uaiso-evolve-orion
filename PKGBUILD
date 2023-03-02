@@ -17,7 +17,6 @@ depends=('hide-titles-git'
          'uaiso-srv'
          'uaiso-wallpapers-orion'
          'ark'
-         'org.kde.plasma.confsaver'
          'ocs-url')
 
 #optdepends=()
