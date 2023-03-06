@@ -8,7 +8,7 @@ arch=('any')
 url="https://uaiso.uai21.com/orion"
 license=('GPL')
 
-depends=('hide-titles-git'
+depends=('uaiso-kwin-hide-title'
          'applet-window-buttons-git'
          'uaiso-icon-theme-orion'
          'gtk-update-icon-cache'
