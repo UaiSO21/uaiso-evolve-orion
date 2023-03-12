@@ -18,7 +18,8 @@ depends=('hide-titles-git'
          'uaiso-wallpapers-orion'
          'ark'
          'ocs-url'
-         'biglinux-plasma-saver')
+         'biglinux-plasma-saver'
+         'kcron')
 
 #optdepends=()
 #install=$pkgname.install
