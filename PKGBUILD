@@ -23,4 +23,3 @@ depends=('hide-titles-git'
 
 #optdepends=()
 #install=$pkgname.install
-#
