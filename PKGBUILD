@@ -19,7 +19,8 @@ depends=('hide-titles-git'
          'ark'
          'ocs-url'
          'biglinux-plasma-saver'
-         'kcron')
+         'kcron'
+         'bluedevil')
 
 #optdepends=()
 #install=$pkgname.install
