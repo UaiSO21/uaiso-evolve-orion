@@ -24,7 +24,9 @@ depends=('hide-titles-git'
          'bluez'
          'bluez-utils'
          'uaiso-plasma-user'
-         'uaiso-skel-plasma')
+         'uaiso-skel-plasma'
+         'flatpak'
+         'snapd')
 
 #optdepends=()
 #install=$pkgname.install
