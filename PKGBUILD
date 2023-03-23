@@ -22,7 +22,9 @@ depends=('hide-titles-git'
          'kcron'
          'bluedevil'
          'bluez'
-         'bluez-utils')
+         'bluez-utils'
+         'uaiso-plasma-user'
+         'uaiso-skel-plasma')
 
 #optdepends=()
 #install=$pkgname.install
