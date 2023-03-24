@@ -26,7 +26,8 @@ depends=('hide-titles-git'
          'uaiso-plasma-user'
          'uaiso-skel-plasma'
          'flatpak'
-         'snapd')
+         'snapd'
+         'klassy-git')
 
 #optdepends=()
 #install=$pkgname.install
