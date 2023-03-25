@@ -8,7 +8,7 @@ arch=('any')
 url="https://uaiso.uai21.com/orion"
 license=('GPL')
 
-depends=('hide-titles-git'
+depends=('hide-titles-git' 
          'applet-window-buttons-git'
          'uaiso-icon-theme-orion'
          'gtk-update-icon-cache'
@@ -21,7 +21,34 @@ depends=('hide-titles-git'
          'uaiso-skel-plasma'
          'flatpak'
          'snapd'
-         'klassy-git')
+         'klassy-git'
+         'dolphin'
+         'dolphin-plugins'
+         'konsole'
+         'kate'
+         'kde-gtk-config'
+         'kfind'
+         'kcalc'
+         'spectacle'
+         'ark'
+         'filelight'
+         'jhead'
+         'kde-service-menu-reimage'
+         'kwin-lowlatency'
+         'kdegraphics-thumbnailers'
+         'ffmpegthumbs'
+         'qbittorrent'
+         'kio-gdrive'
+         'simplescreenrecorder'
+         'guvcview'
+         'skanpage'
+         'gwenview'
+         'okular'
+         'kimageformats'
+         'qt5-imageformats'
+         'gamemode'
+         'grub-btrfs-timeshift'
+         'uaiso-grub-themes')
 
 #optdepends=()
 
