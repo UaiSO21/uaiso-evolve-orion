@@ -16,19 +16,12 @@ depends=('hide-titles-git'
          'uaiso-rename-apps'
          'uaiso-srv'
          'uaiso-wallpapers-orion'
-         'ark'
-         'ocs-url'
          'biglinux-plasma-saver'
-         'kcron'
-         'bluedevil'
-         'bluez'
-         'bluez-utils'
          'uaiso-plasma-user'
          'uaiso-skel-plasma'
          'flatpak'
          'snapd'
-         'klassy-git'
-         'spectacle')
+         'klassy-git')
 
 #optdepends=()
 #install=$pkgname.install
