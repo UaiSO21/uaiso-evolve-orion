@@ -24,4 +24,5 @@ depends=('hide-titles-git'
          'klassy-git')
 
 #optdepends=()
+
 #install=$pkgname.install
