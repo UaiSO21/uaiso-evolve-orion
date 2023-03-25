@@ -34,7 +34,6 @@ depends=('hide-titles-git'
          'filelight'
          'jhead'
          'kde-service-menu-reimage'
-         'kwin-lowlatency'
          'kdegraphics-thumbnailers'
          'ffmpegthumbs'
          'qbittorrent'
@@ -48,7 +47,7 @@ depends=('hide-titles-git'
          'qt5-imageformats'
          'gamemode'
          'grub-btrfs-timeshift'
-         'uaiso-grub-themes')
+        )
 
 #optdepends=()
 #install=$pkgname.install
