@@ -51,5 +51,4 @@ depends=('hide-titles-git'
          'uaiso-grub-themes')
 
 #optdepends=()
-
 #install=$pkgname.install
