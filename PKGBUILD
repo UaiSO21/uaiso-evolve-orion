@@ -35,6 +35,7 @@ depends=('hide-titles-git'
          'qt5-imageformats'
          'gamemode'
          'grub-btrfs-timeshift'
+         'uaiso-rdp'
         )
 
 #optdepends=()
