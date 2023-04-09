@@ -36,6 +36,7 @@ depends=('hide-titles-git'
          'gamemode'
          'grub-btrfs-timeshift'
          'uaiso-rdp'
+         'lisa'
         )
 
 #optdepends=()
