@@ -37,6 +37,7 @@ depends=('hide-titles-git'
          'grub-btrfs-timeshift'
          'uaiso-rdp'
          'elisa'
+         'uaiso-bluetooth'
         )
 
 #optdepends=()
