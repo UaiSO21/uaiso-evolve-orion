@@ -23,6 +23,7 @@ depends=('hide-titles-git'
          'grub-btrfs-timeshift'
          'elisa'
          'bauh'
+         'gufw'
         )
 
 
