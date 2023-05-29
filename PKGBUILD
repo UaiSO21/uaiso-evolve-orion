@@ -23,6 +23,7 @@ depends=('hide-titles-git'
          'elisa'
          'bauh'
          'gufw'
+         'uaiso-grub-themes'
         )
 
 
