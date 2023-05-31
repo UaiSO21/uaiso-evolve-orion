@@ -24,6 +24,7 @@ depends=('hide-titles-git'
          'bauh'
          'gufw'
          'uaiso-grub-themes'
+         'extra-biglinux-wallpapers'
         )
 
 
