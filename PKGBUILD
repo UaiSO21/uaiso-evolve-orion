@@ -25,6 +25,8 @@ depends=('hide-titles-git'
          'gufw'
          'uaiso-grub-themes'
          'extra-biglinux-wallpapers'
+         'firefox'
+         'firefox-pwa-bin'
         )
 
 
