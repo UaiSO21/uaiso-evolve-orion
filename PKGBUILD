@@ -27,6 +27,7 @@ depends=('hide-titles-git'
          'extra-biglinux-wallpapers'
          'firefox'
          'firefox-pwa-bin'
+         'mystiq'
         )
 
 
