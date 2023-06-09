@@ -28,6 +28,7 @@ depends=('hide-titles-git'
          'firefox'
          'firefox-pwa-bin'
          'uaiso-desktop-opcional'
+         'plasma-appsmenu-biglinux'
         )
 
 
