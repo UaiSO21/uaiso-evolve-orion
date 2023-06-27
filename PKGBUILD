@@ -8,8 +8,7 @@ arch=('any')
 url="https://uaiso.uai21.com/orion"
 license=('GPL')
 
-depends=('hide-titles-git' 
-         'applet-window-buttons-git'
+depends=('applet-window-buttons-git'
          'plasma5-applets-window-title'
          'klassy-git'
          'spectacle'
